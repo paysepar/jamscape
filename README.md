@@ -1,7 +1,7 @@
 # jamscape-git
 A web-based drumkit that plays animations along with the sounds.
 
-See scripts.js to access the API
+See /public/scripts.js for the API
 
 API: Functions, objects, and methods...
 
